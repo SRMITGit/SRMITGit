@@ -16,7 +16,7 @@
 
 :compass: Tools and Techniques: Git | Jira | Scrum
 
-:computer: Operating Systems: Fedora Workstation, Manjaro KDE Plasma, Ubuntu, Raspberry Pi
+:computer: Operating Systems: Fedora Workstation | Manjaro KDE Plasma | Ubuntu | Raspberry Pi
 
 
 <!---
