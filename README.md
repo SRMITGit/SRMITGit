@@ -18,11 +18,14 @@
 
 :computer: Operating Systems: Fedora Workstation | Manjaro KDE Plasma | Ubuntu | Raspberry Pi
 
+<<<<<<< HEAD
 * * *
 
 ### Projects
 
 A [chat app written](https://yama-chat.vercel.app/) in Svelte and the project's [technical documentation site](https://chat-app-architectural-docs.vercel.app/).
+=======
+>>>>>>> b03edd28c326dae298794344ab97a50823adead6
 
 <!---
 SRMITGit/SRMITGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
