@@ -1,6 +1,6 @@
 :wave: Hi, I’m @SRMITGit
 
-:eyes: I’m interested in back-end development, DevOps, UX design, tinkering with my Raspberry Pi
+:eyes: I’m interested in back-end development, DevOps, UX design, tinkering on my Raspberry Pi
 
 :seedling: Languages: C# | Shell scripting | C++ | Python | Java | PHP | JavaScript | CSS | HTML | UML
 
