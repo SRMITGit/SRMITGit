@@ -8,7 +8,7 @@
 
 :lock: Containers: Docker
 
-:cloud: Deployment: AWS | GCP | Vercel
+:cloud: Deployment: AWS | GCP | Vercel | NGINX
 
 :file_cabinet: Databases: Azure SQL | DynamoDB | MongoDB Atlas | PostgreSQL
 
