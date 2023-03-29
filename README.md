@@ -24,6 +24,8 @@
 
 A [chat app written](https://yama-chat.vercel.app/) in Svelte and the project's [technical documentation site](https://chat-app-architectural-docs.vercel.app/).
 
+A [policy primer website](https://opr-policy-primer.vercel.app/) built using Svelte, TailwindCSS, and DaisyUI, aimed at explaining an aspect of a particular platform's policies, and why it matters, for a general audience.
+
 <!---
 SRMITGit/SRMITGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
