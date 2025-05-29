@@ -2,9 +2,9 @@
 
 :eyes: I’m interested in back-end development, DevOps, UX design, tinkering on my Raspberry Pi
 
-:seedling: Languages: C# | Shell scripting | C++ | Python | Java | PHP | JavaScript | CSS | HTML | UML
+:seedling: Languages: Ruby | C# | Shell scripting | C++ | Python | Java | PHP | JavaScript | CSS | HTML | UML
 
-:building_construction: Frameworks: ASP.NET Core | Flask | Svelte
+:building_construction: Frameworks: Ruby on Rails | Astro | ASP.NET Core | Flask | Svelte
 
 :lock: Containers: Docker
 
@@ -16,9 +16,9 @@
 
 :compass: Tools and Techniques: Git | Jira | Scrum
 
-:computer: Operating Systems: Fedora Workstation | Manjaro KDE Plasma | Ubuntu | Raspberry Pi
+:computer: Operating Systems: Arch | Fedora Workstation | Manjaro KDE Plasma | Ubuntu | Raspberry Pi
 
-* * *
+---
 
 <!--- ### Projects
 
